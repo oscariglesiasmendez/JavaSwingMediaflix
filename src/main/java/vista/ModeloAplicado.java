@@ -1,0 +1,5 @@
+package vista;
+
+public enum ModeloAplicado {
+    CLIENTE, PRODUCTO, EMPLEADO, LIBRO, PELICULA, JUEGO, VENTAS, APROVISIONAMIENTO, NINGUNO
+}
